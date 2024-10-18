@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xolani1999
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and system development using Java
 - 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on Web Development and app development
+- 💞️ I’m looking to collaborate on Web Development and app development_
 - 📫 How to reach me? Call +27 83 662 1621 or email xolanizwanemac@gmail.com
 
 
