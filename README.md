@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Xolani1999
-- 👀 I’m interested in Web Development and system development using Java
-- 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on Web Development and app development_
-- 📫 How to reach me? Call +27 83 662 1621 or email xolanizwanemac@gmail.com
+Hi, I’m Xolani D Zwane
+Results-driven Java Developer with 2+ years of hands-on experience in enterprise application development 
+using Java, Spring Boot, and Hibernate. Proven ability to design, develop, and maintain RESTful APIs, collaborate 
+within Agile teams, and deliver scalable solutions in banking and financial services environments. Strong 
+foundation in database management, version control, CI/CD pipelines, and containerization. Passionate about 
+continuous learning, performance optimization, and contributing to impactful digital transformation initiatives
+How to reach me? Call +27 83 662 1621 or email xolanizwanemac@gmail.com
 
 
 <!---
